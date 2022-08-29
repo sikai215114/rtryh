@@ -1,0 +1,22 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxfe325b46d61cf126",
+# 公众号appSecret
+"app_secret": "f8936c2512f2c76e39e58c0be0df1a13",
+# 模板消息id
+"template_id": "fSdb-CrsWoNTygy8UQ4SkiBT5LcrnmJEyO-BYxqdGos",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oG7vH5v_bB-5AIjHLHoI3SYwqcXk"],
+# 信息配置
+#和风天气apikey
+"weather_key":"caedf8c18a7d4890a8805706c89955a4",
+# 所在省份
+"province": "陕西",
+# 所在城市
+"city": "靖边",
+# 生日
+"birthday": "2002-05-08",
+# 在一起的日子，格式同上
+"love_date": "2022-07-28"
+}
